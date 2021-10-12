@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1605480129 source:c:\users\miqueias\desktop\covid-monitoring\main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<limits.h>
+	<string.h>
+	<locale.h>
+
+1605738026 source:z:\fmmc\main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<limits.h>
+	<string.h>
+	<locale.h>
